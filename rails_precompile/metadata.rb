@@ -1,4 +1,4 @@
-name             'opsworks-rails-precompile'
+name             'rails_precompile'
 maintainer       'Stefan Wrobel'
 maintainer_email ''
 license          'All rights reserved'
